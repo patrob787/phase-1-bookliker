@@ -135,6 +135,20 @@
           "id": 5,
           "username": "feels-like-summer"
         }
+      ],
+      "likedArray": [
+        {
+          "id": 3,
+          "username": "marvin"
+        },
+        {
+          "id": 5,
+          "username": "feels-like-summer"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        }
       ]
     },
     {

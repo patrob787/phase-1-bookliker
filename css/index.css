@@ -2,3 +2,8 @@ body {
 	display: grid;
 	grid-template-columns: 2fr 8fr
 }
+
+.book-title:hover {
+	background-color: black;
+	color: crimson;
+}
